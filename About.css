@@ -1,0 +1,32 @@
+a {text-decoration: none; color: inherit; color: rgb(255, 255, 255);}
+li {list-style-type: none;}
+#Portfolio {color: #F17A7E}
+#About {color: #F17A7E}
+header {display: flex;
+padding: 25px 2%;}
+.flex {display: flex; justify-content: space-between;}
+.ulflex {display: flex; justify-content: space-between;}
+ul {justify-content: space-between;}
+nav {width: 350px; height: auto;}
+section {padding: 25px 2%;}
+#footerdiv {width: 600px; height: auto;}
+header {background-color: #4A6163}
+footer {background-color: #4A6163}
+.me {width: 210px; height: 175px;}
+footer {text-decoration: none; color: inherit; color: rgb(255, 255, 255);}
+header {font-family: 'AbrilFatface-Regular';}
+footer {font-family: 'AbrilFatface-Regular';}
+p { font-family: 'EBGaramond-VariableFont_wght';}
+p {font-weight: bold;}
+section {background-color: #F1F3F4}
+section {width: 100%;}
+h1{
+    font-size: 35px;
+}
+footer{
+    padding: 25px 2%;
+}
+img{
+    margin: auto;
+}
+li:hover {color: black;}

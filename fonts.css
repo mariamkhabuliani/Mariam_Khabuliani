@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'AbrilFatface-Regular';
+    src: url(fonts/AbrilFatface-Regular.eot);
+    src: url(fonts/AbrilFatface-Regular.eot?#iefix) format('embedded-opentype'),
+         url(fonts/AbrilFatface-Regular.woff2) format('woff2'),
+         url(fonts/AbrilFatface-Regular.woff) format('woff'),
+         url(fonts/AbrilFatface-Regular.ttf) format('truetype'),
+         url(fonts/AbrilFatface-Regular.svg#AbrilFatface-Regular) format('svg'),
+         url(fonts/AbrilFatface-Regular.otf) format('otf');
+  }
+
+  @font-face {
+    font-family: 'EBGaramond-VariableFont_wght';
+    src: url(fonts/EBGaramond-VariableFont_wght.eot);
+    src: url(fonts/EBGaramond-VariableFont_wght.eot?#iefix) format('embedded-opentype'),
+         url(fonts/EBGaramond-VariableFont_wght.otf) format('otf'),
+         url(fonts/EBGaramond-VariableFont_wght.svg#EBGaramond-VariableFont_wght) format('svg'),
+         url(fonts/EBGaramond-VariableFont_wght.ttf) format('truetype'),
+         url(fonts/EBGaramond-VariableFont_wght.woff) format('woff'),
+         url(fonts/EBGaramond-VariableFont_wght.woff2) format('woff2');
+  }
+  

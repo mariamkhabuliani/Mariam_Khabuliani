@@ -1,0 +1,38 @@
+header {display: flex;}
+header {align-items: center;
+padding: 25px 2%;}
+#footerdiv {width: 600px; height: auto;}
+.dashoreba {display: flex; justify-content: space-around;}
+.two { width: 280px; height: auto;} 
+.three { width: 400px; height: auto;}
+.six {width: 390px; height: 550px;}
+a {text-decoration: none; color: inherit; color: rgb(255, 255, 255);}
+li {list-style-type: none;}
+#Portfolio {color: #F17A7E}
+.flex {display: flex; justify-content: space-between;}
+.ulflex {display: flex; justify-content: space-between;}
+ul {justify-content: space-between;}
+nav {width: 350px; height: auto;}
+header {background-color: #4A6163}
+footer {background-color: #4A6163;}
+footer {text-decoration: none; color: inherit; color: rgb(255, 255, 255);}
+header {font-family: 'AbrilFatface-Regular';}
+footer {font-family: 'AbrilFatface-Regular';}
+section {font-family: 'EBGaramond-VariableFont_wght';}
+h2 {font-family: 'EBGaramond-VariableFont_wght';
+font-size: 24px;
+padding: 10px 0;}
+h1{font-size: 35px;}
+p { font-family: 'EBGaramond-VariableFont_wght';}
+p {font-weight: bold;
+padding: 14px 0;}
+section {background-color: #F1F3F4}
+section {width: 100%;}
+.sul {background-color:#F1F3F4 ;
+padding: 25px 2%;}
+h2 {font-weight: bold;}
+footer {padding: 25px 2%; align-items: center;}
+li:hover {color: black;}
+footer{
+    padding: 25px 2%;
+}
